@@ -1,0 +1,8 @@
+GitHub Actions com automação:
+- Criar um workflow que atualize automaticamente o README
+- Usar a API do GitHub para buscar repositórios recentes
+- Fazer commit automático das mudanças
+
+Criar gerador de READMEs:
+- Open Source
+- Usar Python para a lógica e Streamlit para a tela
