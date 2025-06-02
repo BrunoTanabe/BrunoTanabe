@@ -9,6 +9,7 @@
     <a href="https://www.linkedin.com/in/tanabebruno/">
         <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-bruno_tanabe-9745f5?style=for-the-badge&logo=linkedin&logoColor=black&logoSize=auto&labelColor=white&color=9745f5">
     </a>
+    <br>
     <a href="https://medium.com/@tanabebruno">
         <img alt="Medium" src="https://img.shields.io/badge/Medium-@tanabebruno-9745f5?style=for-the-badge&logo=medium&logoColor=black&logoSize=auto&labelColor=white&color=9745f5">
     </a>
@@ -18,25 +19,25 @@
 </p>
 
 <div align="center">
-    <img width="99.6%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BrunoTanabe&theme=midnight_purple" alt="Profile Details"/>
+    <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BrunoTanabe&theme=midnight_purple" alt="Profile Details"/>
 </div>
 
 <div align="center">
-    <img width="49.8%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BrunoTanabe&theme=midnight_purple" alt="GitHub Stats Summary"/>
-    <img width="49.8%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BrunoTanabe&theme=midnight_purple" alt="Top Languages by Repo"/>
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BrunoTanabe&theme=midnight_purple" alt="GitHub Stats Summary"/>
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BrunoTanabe&theme=midnight_purple" alt="Top Languages by Repo"/>
 </div>
 
 <div align="center">
-    <img width="99.6%" src="https://github-readme-streak-stats.herokuapp.com/?user=BrunoTanabe&theme=midnight_purple&hide_border=true" alt="GitHub Streak" />
+    <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=BrunoTanabe&theme=midnight_purple&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-    <img width="49.8%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BrunoTanabe&theme=midnight_purple" alt="Most Commit Language"/>
-    <img width="49.8%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BrunoTanabe&theme=midnight_purple&utcOffset=-3" alt="Productive Time"/>
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BrunoTanabe&theme=midnight_purple" alt="Most Commit Language"/>
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BrunoTanabe&theme=midnight_purple&utcOffset=-3" alt="Productive Time"/>
 </div>
 
 <div align="center">
-    <img width="99.6%" src="https://github-contributor-stats.vercel.app/api?username=BrunoTanabe&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repositories"/>
+    <img width="98%" src="https://github-contributor-stats.vercel.app/api?username=BrunoTanabe&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repositories"/>
 </div>
 
 <p align="center">
@@ -53,3 +54,4 @@
 </div>
 
 ---
+
