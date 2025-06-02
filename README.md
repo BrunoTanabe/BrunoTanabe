@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="profile-banner.png" alt="Profile Banner" width="100%"/>
+<img src="images/profile-banner.png" alt="Profile Banner" width="100%"/>
 
 <p align="center">
     <a href="https://github.com/BrunoTanabe">
