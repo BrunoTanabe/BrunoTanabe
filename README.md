@@ -6,7 +6,10 @@
 
 </div>
 
-Hi, I'm **Bruno**, an AI and backend engineer. Since 2023 I've been shipping **agents, RAG and automations** to production in banking, telecom and fintech, from scoping the problem to monitoring it in production.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/intro.svg">
+  <img src="assets/intro-light.svg" alt="Hi, I'm Bruno, an AI and backend engineer. Since 2023 I've been shipping agents, RAG and automations to production in banking, telecom and fintech, from scoping the problem to monitoring it in production." width="100%">
+</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/h-numbers.svg">
