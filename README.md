@@ -1,35 +1,45 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Bruno Tanabe — Problema na mesa, solução no ar. Engenharia de IA em produção." width="100%">
+<img src="assets/banner.svg" alt="Bruno Tanabe — Problem on the table, solution live. AI engineering in production." width="100%">
 
-<a href="https://www.linkedin.com/in/tanabebruno/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0E0E0E?style=for-the-badge&logo=linkedin&logoColor=39FF14"/></a> <a href="https://medium.com/@tanabebruno"><img alt="Medium" src="https://img.shields.io/badge/Medium-0E0E0E?style=for-the-badge&logo=medium&logoColor=39FF14"/></a> <a href="mailto:tanabebruno@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-0E0E0E?style=for-the-badge&logo=gmail&logoColor=39FF14"/></a>
+<a href="https://github.com/BrunoTanabe"><picture><source media="(prefers-color-scheme: dark)" srcset="https://brunotanabe.github.io/tanabe-stats/cards/button-github-dark.svg"><img src="https://brunotanabe.github.io/tanabe-stats/cards/button-github-light.svg" alt="GitHub @BrunoTanabe" width="24%"></picture></a> <a href="https://www.linkedin.com/in/tanabebruno/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://brunotanabe.github.io/tanabe-stats/cards/button-linkedin-dark.svg"><img src="https://brunotanabe.github.io/tanabe-stats/cards/button-linkedin-light.svg" alt="LinkedIn /in/tanabebruno" width="24%"></picture></a> <a href="https://medium.com/@tanabebruno"><picture><source media="(prefers-color-scheme: dark)" srcset="https://brunotanabe.github.io/tanabe-stats/cards/button-medium-dark.svg"><img src="https://brunotanabe.github.io/tanabe-stats/cards/button-medium-light.svg" alt="Medium @tanabebruno" width="24%"></picture></a> <a href="mailto:tanabebruno@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://brunotanabe.github.io/tanabe-stats/cards/button-email-dark.svg"><img src="https://brunotanabe.github.io/tanabe-stats/cards/button-email-light.svg" alt="E-mail tanabebruno@gmail.com" width="24%"></picture></a>
 
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/h-sobre.svg">
-  <img src="assets/h-sobre-light.svg" alt="Sobre" width="100%">
-</picture>
-
-Sou **Bruno Tanabe**, engenheiro de IA e backend. Desde 2023 coloco sistemas com LLMs em produção: **agentes, multiagentes, RAG, OCR e automações** para banco, telecom e fintech.
-
-Cuido do ciclo inteiro, da descoberta do problema à observabilidade em produção, com engenharia de verdade por trás: arquitetura limpa, testes, custo de tokens sob controle e métrica de qualidade.
+Hi, I'm **Bruno**, an AI and backend engineer. Since 2023 I've been shipping **agents, RAG and automations** to production in banking, telecom and fintech, from scoping the problem to monitoring it in production.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/h-agora.svg">
-  <img src="assets/h-agora-light.svg" alt="Agora" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/h-numbers.svg">
+  <img src="assets/h-numbers-light.svg" alt="By the numbers" width="100%">
 </picture>
 
-- 🏦 **Engenheiro de IA em um grande banco:** agentes internos que automatizam geração de código, criação de histórias no Jira e análise de custos, com foco em qualidade de resposta e economia de tokens.
-- 📡 **Engenheiro de IA em uma grande operadora de telecom:** fluxo multiagente que conduz o suporte técnico de ponta a ponta: diagnostica, resolve ou agenda o técnico e avisa sobre falhas na região.
-- 🎓 Sistemas de Informação na **UNIFEI**.
+<a href="https://github.com/BrunoTanabe"><picture><source media="(prefers-color-scheme: dark)" srcset="https://brunotanabe.github.io/tanabe-stats/cards/hero-dark.svg"><img src="https://brunotanabe.github.io/tanabe-stats/cards/hero-light.svg" alt="Contributions in the last 12 months, streaks, public repositories and years of AI in production" width="100%"></picture></a>
+
+<a href="https://github.com/BrunoTanabe"><picture><source media="(prefers-color-scheme: dark)" srcset="https://brunotanabe.github.io/tanabe-stats/cards/city-dark.svg"><img src="https://brunotanabe.github.io/tanabe-stats/cards/city-light.svg" alt="Commit city: one building per week of commits in the last 12 months" width="100%"></picture></a>
+
+<a href="https://github.com/BrunoTanabe"><picture><source media="(prefers-color-scheme: dark)" srcset="https://brunotanabe.github.io/tanabe-stats/cards/rhythm-dark.svg"><img src="https://brunotanabe.github.io/tanabe-stats/cards/rhythm-light.svg" alt="Commit rhythm by weekday and hour" width="49%"></picture></a> <a href="https://github.com/BrunoTanabe?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="https://brunotanabe.github.io/tanabe-stats/cards/languages-dark.svg"><img src="https://brunotanabe.github.io/tanabe-stats/cards/languages-light.svg" alt="Most used languages by code volume" width="49%"></picture></a>
+
+<a href="https://github.com/pulls?q=is%3Apr+author%3ABrunoTanabe+is%3Amerged+-user%3ABrunoTanabe"><picture><source media="(prefers-color-scheme: dark)" srcset="https://brunotanabe.github.io/tanabe-stats/cards/open-source-dark.svg"><img src="https://brunotanabe.github.io/tanabe-stats/cards/open-source-light.svg" alt="Third-party open source projects I contributed to" width="49%"></picture></a> <a href="https://github.com/BrunoTanabe?tab=repositories&sort=stargazers"><picture><source media="(prefers-color-scheme: dark)" srcset="https://brunotanabe.github.io/tanabe-stats/cards/most-starred-dark.svg"><img src="https://brunotanabe.github.io/tanabe-stats/cards/most-starred-light.svg" alt="My most starred repositories" width="49%"></picture></a>
+
+<a href="https://medium.com/@tanabebruno"><picture><source media="(prefers-color-scheme: dark)" srcset="https://brunotanabe.github.io/tanabe-stats/cards/writing-dark.svg"><img src="https://brunotanabe.github.io/tanabe-stats/cards/writing-light.svg" alt="Latest posts on Medium" width="100%"></picture></a>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://brunotanabe.github.io/tanabe-stats/cards/footer-dark.svg"><img src="https://brunotanabe.github.io/tanabe-stats/cards/footer-light.svg" alt="Stats built in-house with GitHub Actions and the GraphQL API" width="100%"></picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/h-now.svg">
+  <img src="assets/h-now-light.svg" alt="Now" width="100%">
+</picture>
+
+- 🏦 **AI engineer at a major bank:** internal agents that automate code generation, Jira story writing and cost analysis, focused on answer quality and token savings.
+- 📡 **AI engineer at a major telecom operator:** a multi-agent flow that runs technical support end to end: it diagnoses, fixes or schedules a technician, and warns about outages in the area.
+- 🎓 Information Systems at **UNIFEI**.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/h-stack.svg">
   <img src="assets/h-stack-light.svg" alt="Stack" width="100%">
 </picture>
 
-<p><code>IA</code><br>
+<p><code>AI</code><br>
 <img alt="Python" src="https://img.shields.io/badge/Python-0E0E0E?style=for-the-badge&logo=python&logoColor=39FF14"/> <img alt="LangChain" src="https://img.shields.io/badge/LangChain-0E0E0E?style=for-the-badge&logo=langchain&logoColor=39FF14"/> <img alt="CrewAI" src="https://img.shields.io/badge/CrewAI-0E0E0E?style=for-the-badge&logo=crewai&logoColor=39FF14"/> <img alt="Langfuse" src="https://img.shields.io/badge/Langfuse-0E0E0E?style=for-the-badge&logo=langfuse&logoColor=39FF14"/> <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-0E0E0E?style=for-the-badge&logo=openai&logoColor=39FF14"/> <img alt="Claude" src="https://img.shields.io/badge/Claude-0E0E0E?style=for-the-badge&logo=claude&logoColor=39FF14"/> <img alt="Hugging Face" src="https://img.shields.io/badge/Hugging_Face-0E0E0E?style=for-the-badge&logo=huggingface&logoColor=39FF14"/></p>
 <p><code>BACKEND</code><br>
 <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-0E0E0E?style=for-the-badge&logo=fastapi&logoColor=39FF14"/> <img alt="Django" src="https://img.shields.io/badge/Django-0E0E0E?style=for-the-badge&logo=django&logoColor=39FF14"/> <img alt="Java" src="https://img.shields.io/badge/Java-0E0E0E?style=for-the-badge&logo=openjdk&logoColor=39FF14"/> <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-0E0E0E?style=for-the-badge&logo=springboot&logoColor=39FF14"/> <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-0E0E0E?style=for-the-badge&logo=postgresql&logoColor=39FF14"/> <img alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-0E0E0E?style=for-the-badge&logo=rabbitmq&logoColor=39FF14"/></p>
@@ -39,49 +49,47 @@ Cuido do ciclo inteiro, da descoberta do problema à observabilidade em produç�
 <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0E0E0E?style=for-the-badge&logo=typescript&logoColor=39FF14"/> <img alt="Angular" src="https://img.shields.io/badge/Angular-0E0E0E?style=for-the-badge&logo=angular&logoColor=39FF14"/> <img alt="React" src="https://img.shields.io/badge/React-0E0E0E?style=for-the-badge&logo=react&logoColor=39FF14"/></p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/h-destaques.svg">
-  <img src="assets/h-destaques-light.svg" alt="Destaques" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/h-highlights.svg">
+  <img src="assets/h-highlights-light.svg" alt="Highlights" width="100%">
 </picture>
 
-| Projeto | O que é |
+| Project | What it is |
 |---|---|
-| [**fastapi-clean-architecture-ddd-template**](https://github.com/BrunoTanabe/fastapi-clean-architecture-ddd-template) | Template FastAPI com Clean Architecture e DDD para backends com IA. Docker, testes e camadas bem definidas. |
-| [**curriculum-vitae-query-assistant**](https://github.com/BrunoTanabe/curriculum-vitae-query-assistant) | OCR + LLM para resumir currículos e responder perguntas de fit para vagas, sem armazenar documentos. |
-| [**fastapi-nested-jwt-authentication**](https://github.com/BrunoTanabe/fastapi-nested-jwt-authentication) | Autenticação JWT aninhado (JWS + JWE) em FastAPI, com rotação, revogação e cookies HttpOnly. |
-| [**fastapi-api-key-authentication**](https://github.com/BrunoTanabe/fastapi-api-key-authentication) | Autenticação por API key em FastAPI: header, query ou cookie, escopos e testes. |
-| [**multiple-ssh-keys-for-multiple-git-accounts**](https://github.com/BrunoTanabe/multiple-ssh-keys-for-multiple-git-accounts) | Guia para usar várias chaves SSH e contas Git na mesma máquina. |
+| [**fastapi-clean-architecture-ddd-template**](https://github.com/BrunoTanabe/fastapi-clean-architecture-ddd-template) | FastAPI template with Clean Architecture and DDD for AI backends. Docker, tests and well-defined layers. |
+| [**curriculum-vitae-query-assistant**](https://github.com/BrunoTanabe/curriculum-vitae-query-assistant) | OCR + LLM that summarizes résumés and answers job-fit questions, without storing documents. |
+| [**fastapi-nested-jwt-authentication**](https://github.com/BrunoTanabe/fastapi-nested-jwt-authentication) | Nested JWT authentication (JWS + JWE) in FastAPI, with rotation, revocation and HttpOnly cookies. |
+| [**fastapi-api-key-authentication**](https://github.com/BrunoTanabe/fastapi-api-key-authentication) | API key authentication in FastAPI: header, query or cookie, scopes and tests. |
+| [**multiple-ssh-keys-for-multiple-git-accounts**](https://github.com/BrunoTanabe/multiple-ssh-keys-for-multiple-git-accounts) | Guide to using several SSH keys and Git accounts on the same machine. |
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/h-trajetoria.svg">
-  <img src="assets/h-trajetoria-light.svg" alt="Trajetória" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/h-journey.svg">
+  <img src="assets/h-journey-light.svg" alt="Journey" width="100%">
 </picture>
 
-| Período | Onde | O quê |
+| Period | Where | What |
 |---|---|---|
-| 2026 — hoje | Banco e telecom | Engenheiro de IA: agentes internos e fluxo multiagente de atendimento |
-| 2025 — 2026 | Teddy Open Finance | Engenheiro de IA e Backend: multiagente B2B, motor de IA com RAG, OCR, background check |
-| 2024 — 2025 | GF Innovation | Full stack → líder técnico de IA: fundou o time de IA, antifraude, microsserviços |
-| 2023 — 2024 | Tech4Humans | Estágio em IA: multiagentes com RAG, OCR de documentos (KYC), MLOps |
+| 2026 — now | Banking and telecom | AI engineer: internal agents and a multi-agent support flow |
+| 2025 — 2026 | Teddy Open Finance | AI and backend engineer: B2B multi-agent system, AI engine with RAG, OCR, background check |
+| 2024 — 2025 | GF Innovation | Full stack → AI tech lead: founded the AI team, anti-fraud, microservices |
+| 2023 — 2024 | Tech4Humans | AI intern: multi-agent systems with RAG, document OCR (KYC), MLOps |
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/h-contact.svg">
+  <img src="assets/h-contact-light.svg" alt="Contact" width="100%">
+</picture>
+
+Got a problem AI should be solving and still isn't? **Let's talk.**
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=BrunoTanabe&show_icons=true&hide_rank=true&bg_color=0E0E0E&title_color=39FF14&text_color=ECE8DF&icon_color=BC13FE&border_color=2A2A2A" alt="Estatísticas do GitHub"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoTanabe&layout=compact&langs_count=6&bg_color=0E0E0E&title_color=39FF14&text_color=ECE8DF&icon_color=BC13FE&border_color=2A2A2A" alt="Linguagens mais usadas"/>
+
+<a href="https://github.com/BrunoTanabe"><picture><source media="(prefers-color-scheme: dark)" srcset="https://brunotanabe.github.io/tanabe-stats/cards/button-github-dark.svg"><img src="https://brunotanabe.github.io/tanabe-stats/cards/button-github-light.svg" alt="GitHub @BrunoTanabe" width="24%"></picture></a> <a href="https://www.linkedin.com/in/tanabebruno/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://brunotanabe.github.io/tanabe-stats/cards/button-linkedin-dark.svg"><img src="https://brunotanabe.github.io/tanabe-stats/cards/button-linkedin-light.svg" alt="LinkedIn /in/tanabebruno" width="24%"></picture></a> <a href="https://medium.com/@tanabebruno"><picture><source media="(prefers-color-scheme: dark)" srcset="https://brunotanabe.github.io/tanabe-stats/cards/button-medium-dark.svg"><img src="https://brunotanabe.github.io/tanabe-stats/cards/button-medium-light.svg" alt="Medium @tanabebruno" width="24%"></picture></a> <a href="mailto:tanabebruno@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://brunotanabe.github.io/tanabe-stats/cards/button-email-dark.svg"><img src="https://brunotanabe.github.io/tanabe-stats/cards/button-email-light.svg" alt="E-mail tanabebruno@gmail.com" width="24%"></picture></a>
+
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/h-contato.svg">
-  <img src="assets/h-contato-light.svg" alt="Contato" width="100%">
-</picture>
-
-Tem um problema que a IA deveria resolver e ainda não resolve? **Vamos conversar.**
-
-<a href="https://www.linkedin.com/in/tanabebruno/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0E0E0E?style=for-the-badge&logo=linkedin&logoColor=39FF14"/></a> <a href="https://medium.com/@tanabebruno"><img alt="Medium" src="https://img.shields.io/badge/Medium-0E0E0E?style=for-the-badge&logo=medium&logoColor=39FF14"/></a> <a href="mailto:tanabebruno@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-0E0E0E?style=for-the-badge&logo=gmail&logoColor=39FF14"/></a>
-
 <img src="assets/divider.svg" alt="" width="100%">
-
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/footer.svg">
-  <img src="assets/footer-light.svg" alt="田辺 — São Paulo × Tóquio" width="100%">
+  <img src="assets/footer-light.svg" alt="田辺 — São Paulo × Tokyo" width="100%">
 </picture>
 </div>
