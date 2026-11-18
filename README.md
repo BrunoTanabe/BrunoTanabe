@@ -28,23 +28,10 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://brunotanabe.github.io/tanabe-stats/cards/footer-dark.svg"><img src="https://brunotanabe.github.io/tanabe-stats/cards/footer-light.svg" alt="Stats built in-house with GitHub Actions and the GraphQL API" width="100%"></picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/h-contact.svg">
-  <img src="assets/h-contact-light.svg" alt="Contact" width="100%">
-</picture>
-
-Got a problem AI should be solving and still isn't? **Let's talk.**
-
-<div align="center">
-
-<a href="https://github.com/BrunoTanabe"><picture><source media="(prefers-color-scheme: dark)" srcset="https://brunotanabe.github.io/tanabe-stats/cards/button-github-dark.svg"><img src="https://brunotanabe.github.io/tanabe-stats/cards/button-github-light.svg" alt="GitHub @BrunoTanabe" width="25%"></picture></a><a href="https://www.linkedin.com/in/tanabebruno/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://brunotanabe.github.io/tanabe-stats/cards/button-linkedin-dark.svg"><img src="https://brunotanabe.github.io/tanabe-stats/cards/button-linkedin-light.svg" alt="LinkedIn /in/tanabebruno" width="25%"></picture></a><a href="https://medium.com/@tanabebruno"><picture><source media="(prefers-color-scheme: dark)" srcset="https://brunotanabe.github.io/tanabe-stats/cards/button-medium-dark.svg"><img src="https://brunotanabe.github.io/tanabe-stats/cards/button-medium-light.svg" alt="Medium @tanabebruno" width="25%"></picture></a><a href="mailto:tanabebruno@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://brunotanabe.github.io/tanabe-stats/cards/button-email-dark.svg"><img src="https://brunotanabe.github.io/tanabe-stats/cards/button-email-light.svg" alt="E-mail tanabebruno@gmail.com" width="25%"></picture></a>
-
-</div>
-
 <img src="assets/divider.svg" alt="" width="100%">
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/footer.svg">
-  <img src="assets/footer-light.svg" alt="田辺 — São Paulo × Tokyo" width="100%">
+  <img src="assets/footer-light.svg" alt="田辺 — São Paulo" width="100%">
 </picture>
 </div>
