@@ -12,6 +12,13 @@
 </picture>
 
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/h-shipped.svg">
+  <img src="assets/h-shipped-light.svg" alt="Shipped" width="100%">
+</picture>
+
+<a href="https://www.linkedin.com/in/tanabebruno/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://brunotanabe.github.io/tanabe-stats/cards/shipped-1-dark.svg"><img src="https://brunotanabe.github.io/tanabe-stats/cards/shipped-1-light.svg" alt="Shipped in banking: agents for the engineering chores" width="33.33%"></picture></a><a href="https://www.linkedin.com/in/tanabebruno/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://brunotanabe.github.io/tanabe-stats/cards/shipped-2-dark.svg"><img src="https://brunotanabe.github.io/tanabe-stats/cards/shipped-2-light.svg" alt="Shipped in fintech: white-label multi-agent assistant" width="33.33%"></picture></a><a href="https://www.linkedin.com/in/tanabebruno/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://brunotanabe.github.io/tanabe-stats/cards/shipped-3-dark.svg"><img src="https://brunotanabe.github.io/tanabe-stats/cards/shipped-3-light.svg" alt="Shipped in fintech: no-code AI engine on company data" width="33.33%"></picture></a>
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/h-numbers.svg">
   <img src="assets/h-numbers-light.svg" alt="By the numbers" width="100%">
 </picture>
