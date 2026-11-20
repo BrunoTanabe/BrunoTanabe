@@ -12,6 +12,13 @@
 </picture>
 
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/h-shipped.svg">
+  <img src="assets/h-shipped-light.svg" alt="Shipped" width="100%">
+</picture>
+
+<a href="https://www.linkedin.com/in/tanabebruno/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://brunotanabe.github.io/tanabe-stats/cards/shipped-1-dark.svg"><img src="https://brunotanabe.github.io/tanabe-stats/cards/shipped-1-light.svg" alt="Shipped in banking: agents for the engineering chores" width="33.33%"></picture></a><a href="https://www.linkedin.com/in/tanabebruno/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://brunotanabe.github.io/tanabe-stats/cards/shipped-2-dark.svg"><img src="https://brunotanabe.github.io/tanabe-stats/cards/shipped-2-light.svg" alt="Shipped in fintech: white-label multi-agent assistant" width="33.33%"></picture></a><a href="https://www.linkedin.com/in/tanabebruno/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://brunotanabe.github.io/tanabe-stats/cards/shipped-3-dark.svg"><img src="https://brunotanabe.github.io/tanabe-stats/cards/shipped-3-light.svg" alt="Shipped in fintech: no-code AI engine on company data" width="33.33%"></picture></a>
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/h-numbers.svg">
   <img src="assets/h-numbers-light.svg" alt="By the numbers" width="100%">
 </picture>
@@ -20,9 +27,9 @@
 
 <a href="https://github.com/BrunoTanabe"><picture><source media="(prefers-color-scheme: dark)" srcset="https://brunotanabe.github.io/tanabe-stats/cards/city-dark.svg"><img src="https://brunotanabe.github.io/tanabe-stats/cards/city-light.svg" alt="Commit city: one building per week of commits in the last 12 months" width="100%"></picture></a>
 
-<a href="https://github.com/BrunoTanabe"><picture><source media="(prefers-color-scheme: dark)" srcset="https://brunotanabe.github.io/tanabe-stats/cards/rhythm-dark.svg"><img src="https://brunotanabe.github.io/tanabe-stats/cards/rhythm-light.svg" alt="Commit rhythm by weekday and hour" width="49%"></picture></a> <a href="https://github.com/BrunoTanabe?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="https://brunotanabe.github.io/tanabe-stats/cards/languages-dark.svg"><img src="https://brunotanabe.github.io/tanabe-stats/cards/languages-light.svg" alt="Most used languages by code volume" width="49%"></picture></a>
+<a href="https://github.com/BrunoTanabe"><picture><source media="(prefers-color-scheme: dark)" srcset="https://brunotanabe.github.io/tanabe-stats/cards/rhythm-dark.svg"><img src="https://brunotanabe.github.io/tanabe-stats/cards/rhythm-light.svg" alt="Commit rhythm by weekday and hour" width="50%"></picture></a><a href="https://github.com/BrunoTanabe?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="https://brunotanabe.github.io/tanabe-stats/cards/languages-dark.svg"><img src="https://brunotanabe.github.io/tanabe-stats/cards/languages-light.svg" alt="Most used languages by code volume" width="50%"></picture></a>
 
-<a href="https://github.com/pulls?q=is%3Apr+author%3ABrunoTanabe+is%3Amerged+-user%3ABrunoTanabe"><picture><source media="(prefers-color-scheme: dark)" srcset="https://brunotanabe.github.io/tanabe-stats/cards/open-source-dark.svg"><img src="https://brunotanabe.github.io/tanabe-stats/cards/open-source-light.svg" alt="Third-party open source projects I contributed to" width="49%"></picture></a> <a href="https://github.com/BrunoTanabe?tab=repositories&sort=stargazers"><picture><source media="(prefers-color-scheme: dark)" srcset="https://brunotanabe.github.io/tanabe-stats/cards/most-starred-dark.svg"><img src="https://brunotanabe.github.io/tanabe-stats/cards/most-starred-light.svg" alt="My most starred repositories" width="49%"></picture></a>
+<a href="https://github.com/pulls?q=is%3Apr+author%3ABrunoTanabe+is%3Amerged+-user%3ABrunoTanabe"><picture><source media="(prefers-color-scheme: dark)" srcset="https://brunotanabe.github.io/tanabe-stats/cards/open-source-dark.svg"><img src="https://brunotanabe.github.io/tanabe-stats/cards/open-source-light.svg" alt="Third-party open source projects I contributed to" width="50%"></picture></a><a href="https://github.com/BrunoTanabe?tab=repositories&sort=stargazers"><picture><source media="(prefers-color-scheme: dark)" srcset="https://brunotanabe.github.io/tanabe-stats/cards/most-starred-dark.svg"><img src="https://brunotanabe.github.io/tanabe-stats/cards/most-starred-light.svg" alt="My most starred repositories" width="50%"></picture></a>
 
 <a href="https://medium.com/@tanabebruno"><picture><source media="(prefers-color-scheme: dark)" srcset="https://brunotanabe.github.io/tanabe-stats/cards/writing-dark.svg"><img src="https://brunotanabe.github.io/tanabe-stats/cards/writing-light.svg" alt="Latest posts on Medium" width="100%"></picture></a>
 
